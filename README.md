@@ -1,16 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=t1n-m1k%20sun&fontSize=90)
 
-<!--
-**t1nm1ksun/t1nm1ksun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
+- 🌱 I’m currently studying **Kotlin**
+- 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### **LANGUAGE**
+
+Most Using:
+
+<a target="_blank"><img src="https://img.shields.io/badge/Kotlin-red?style=flat-square&logo=kotlin&logoColor=white"/></a>
+
+Used at least once:
+
+<a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
