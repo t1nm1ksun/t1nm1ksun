@@ -12,6 +12,8 @@
 Most Using:
 
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-red?style=flat-square&logo=kotlin&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white"/></a>
+
 
 Used at least once:
 
