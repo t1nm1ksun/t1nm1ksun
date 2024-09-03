@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying at **Konkuk University** and I'm majoring in **Computer Science and Engineering**
 - 🌱 I’m currently studying **Kotlin**
-- 😄 Pronouns: **I will be a Developer that everyone wants to work with me!!**
+- 😄 Pronouns: **I will be a Developer that everyone wants to work with**
 
 <br/>
 
