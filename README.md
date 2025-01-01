@@ -13,10 +13,10 @@ Most Using:
 
 <a target="_blank"><img src="https://img.shields.io/badge/Kotlin-red?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Android-green?style=flat-square&logo=android&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
 
 
 Used at least once:
 
 <a target="_blank"><img src="https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white"/></a>
 <a target="_blank"><img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python&logoColor=white"/></a>
-<a target="_blank"><img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
