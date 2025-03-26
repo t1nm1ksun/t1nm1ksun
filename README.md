@@ -19,7 +19,7 @@
 
 - 🔷 **SOPT 34기** - Android Part  
 - 🔷 **SOPT 35기** - Android Part  
-- 🔶 **디프만 16기** - Android Part  
+- 🔶 **디프만(Depormeet) 16기** - Android Part  
 
 <br/>
 
