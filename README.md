@@ -13,7 +13,7 @@
 | `2024.03 ~ 2024.08` | <img src="https://github.com/user-attachments/assets/d78e90d5-f190-43d5-8d88-6415d8ed6f30" width="14" height="14"/> 건국대학교 **정보운영팀 근로장학생** |
 | `2024.12 ~ 2025.02` | <img src="https://github.com/user-attachments/assets/df0b662b-0740-433f-b2aa-c748cedf21f3" width="14" height="14"/> 다이닝코드 **안드로이드 개발자** (인턴) |
 | `2025.07 ~ 2025.10` | <img src="https://github.com/user-attachments/assets/60ef1b5c-7ef6-4f9b-b9c2-de6135f77b94" width="14" height="14"/> 비바리퍼블리카 **QA Assistant** (계약직) |
-| `2025.10 ~ 2026.04` | <img src="https://github.com/user-attachments/assets/16615b7c-5885-4f2f-b339-1fc53efe123d" width="14" height="14"/> 트릴리온 랩스 **안드로이드 개발자** |
+| `2025.10 ~ 재직중` | <img src="https://github.com/user-attachments/assets/16615b7c-5885-4f2f-b339-1fc53efe123d" width="14" height="14"/> 트릴리온 랩스 **소프트웨어 개발자** |
 
 <br/>
 
